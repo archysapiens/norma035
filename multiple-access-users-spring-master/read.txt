@@ -1,5 +1,0 @@
-Import database!
-
-creadential:
-peripurnama@gmail.com
-@Asdf12345
